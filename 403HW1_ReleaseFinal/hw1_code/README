@@ -1,0 +1,17 @@
+pi_vi.py:
+
+This file contains all the code for the gridworld problems using value iteration and policy iteration.
+
+The command:
+python pi_vi.py
+
+Simulates all gridworld environments and creates the required policy, outputs and figures for Question 1. Each figure needs to exited before the code continues.
+
+bandits.py:
+
+This file contains all the code for the bandits problems using various exploration algorithms.
+
+The command:
+python bandits.py
+
+Simulates all the bandit exploration algorithms and creates the required figures for Question 2. Each figure needs to exited before the code continues.
