@@ -1,4 +1,0 @@
-numpy
-gym<=0.20
-matplotlib
-seaborn
