@@ -1,0 +1,34 @@
+
+Validation results (2025-11-12 23:14:54.108432)
+folds:  10
+train set size:  855.0
+epochs per fold: 200
+       |best MAE|  ACC  |
+Fold 0 | 629.23 | 0.80  |
+Fold 1 | 618.57 | 0.79  |
+Fold 2 | 680.47 | 0.81  |
+Fold 3 | 668.69 | 0.80  |
+Fold 4 | 672.22 | 0.79  |
+Fold 5 | 668.48 | 0.79  |
+Fold 6 | 668.50 | 0.80  |
+Fold 7 | 660.59 | 0.80  |
+Fold 8 | 671.81 | 0.81  |
+Fold 9 | 641.75 | 0.79  |
+Avg    | 658.03 | 0.80  |
+
+Validation results (2025-11-14 04:42:07.555580)
+folds:  10
+train set size:  754.2
+epochs per fold: 200
+       |best MAE|  ACC  |
+Fold 0 | 668.50 | 0.81  |
+Fold 1 | 622.21 | 0.83  |
+Fold 2 | 662.25 | 0.83  |
+Fold 3 | 648.84 | 0.82  |
+Fold 4 | 674.32 | 0.84  |
+Fold 5 | 696.60 | 0.83  |
+Fold 6 | 661.78 | 0.85  |
+Fold 7 | 672.68 | 0.83  |
+Fold 8 | 670.46 | 0.84  |
+Fold 9 | 658.16 | 0.81  |
+Avg    | 663.58 | 0.83  |

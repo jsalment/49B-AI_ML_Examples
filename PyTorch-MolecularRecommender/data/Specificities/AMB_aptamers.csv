@@ -1,0 +1,26 @@
+Target,AMB1,AMB2F,AMB2P,AMB3,AMB5
+5F-AMB,1,1,1,1,1
+Lysergic acid diethylamide,0,0.212,0.296,0,0.222
+Tetrahydrocannabinol,0.014,0,0,0.011,0
+Cannabidiol,0,0,0,0.054,0
+Cannabinol,0,0,0.212,0.03,0
+Alprazolam,0,0,0.027,0,0
+Diazepam,0,0.005,0.031,0,0
+Quinine,0,0.275,0.458,0,1.039
+Sumatriptan,0.059,0.262,0.061,0.068,1.665
+Serotonin,0.048,0.188,0,0.033,0.156
+L-Tryptophan,0,0,0.065,0,0
+Dehydroepiandrosterone sulfate,0,0.044,0.279,0.033,1.725
+"N,N-Dimethyltryptamine",0,0,0.008,0,0
+Benzocaine,0,0,0.153,0,0
+Procaine,0.003,0,0.147,0.032,0.237
+Diphenhydramine,0,0.055,0.22,0.056,0.586
+Lidocaine,0,0.049,0,0.035,0.058
+Oxycodone,0.085,0.006,0.097,0.2,0.48
+Heroin,0,0.001,0.146,0.012,0.102
+MDMA,0.071,0.125,0.088,0.076,0.94
+Amphetamine,0.029,0,0.131,0,0.24
+(+)-Methamphetamine,0.014,0,0.011,0.122,0.108
+Methadone,0.188,0.007,0.047,0.236,2.246
+Cocaine,0.128,0.291,0.08,0.173,0.54
+Specificity Score,2.781,6.607,11.124,5.095,44.972
